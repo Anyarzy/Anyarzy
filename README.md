@@ -19,6 +19,6 @@
 - 🔭 I’m currently working on AI annotating
 - 🌱 I’m currently learning front-end programming
 - 💬 Ask me about Korean - English LLM project
-- 📫 How to reach me: jsshin0911@gmail.com / https://www.linkedin.com/in/j-shin-0005b82a7/
+- 📫 How to reach me: [e-mail](jsshin0911@gmail.com) / [Linkedin](https://www.linkedin.com/in/j-shin-0005b82a7/)
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love piercing
